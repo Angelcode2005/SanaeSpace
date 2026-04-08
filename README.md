@@ -36,7 +36,7 @@ This repository is organized to demonstrate the interdisciplinary engineering be
 **Architect's Note:** This diagram defines the modular relationship between User Roles, the SanaeAI Engine, and the resulting Sensory Reports. By utilizing inheritance and specialized data dictionaries, we ensure that every blueprint is analyzed with neuro-inclusive precision.
 
 *The following Sequence Diagram details the lifecycle of a blueprint analysis within the SanaaSpace ecosystem, showcasing the interaction between the architect and the backend components:
-![SanaeSpace Architecture Diagram](docs/sequence-diag.png)
+![SanaeSpace Architecture Diagram](docs/sequence_diag.png)
 **Architect's Note:** The sequence emphasizes data integrity and processing depth. Once a blueprint is securely stored in the Database, the SanaeAI Engine performs a series of self-reflexive sensory calculations. This ensures that the final report provided to the architect is not just data, but a validated neuro-inclusive design guide.
 
 ---
