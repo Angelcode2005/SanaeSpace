@@ -25,6 +25,12 @@ This repository is organized to demonstrate the interdisciplinary engineering be
 * **`assets/`**: UI/UX Human-Centric designs (Figma) and 3D simulation demos.
 * **`data/`**: Sample 2D blueprints and sensory data parameters.
 * **`academy/`**: Educational materials and workshop modules for Sanae Academy.
+  ---
+
+## 📐 System Architecture Overview
+To visualize the synergy between the AI engine and our stakeholders, here is the official **Use Case Diagram** for SanaaSpace:
+https://drive.google.com/file/d/1js93XQYsF62ZO9TUT2xmyoFy_e_BaLTU/view?usp=sharing
+**Architect's Note:** This diagram outlines how the **SanaeAI Engine** processes sensory data to assist architects in creating neuro-inclusive environments.
 
 ---
 
