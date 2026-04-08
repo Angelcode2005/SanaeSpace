@@ -28,7 +28,7 @@ This repository is organized to demonstrate the interdisciplinary engineering be
 
 ## 📐 System Architecture Overview
 To visualize the synergy between the AI engine and our stakeholders, here is the official **Use Case Diagram** for SanaaSpace:
-https://drive.google.com/file/d/1js93XQYsF62ZO9TUT2xmyoFy_e_BaLTU/view?usp=sharing
+![SanaaSpace Architecture Diagram](docs/Diagramme de cas d'utilisation sanaespace_architecture)
 **Architect's Note:** This diagram outlines how the **SanaeAI Engine** processes sensory data to assist architects in creating neuro-inclusive environments.
 
 ---
