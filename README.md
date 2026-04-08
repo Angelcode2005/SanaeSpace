@@ -31,6 +31,10 @@ To visualize the synergy between the AI engine and our stakeholders, here is the
 ![SanaeSpace Architecture Diagram](docs/use-case.png)
 **Architect's Note:** This architecture is designed to simplify complex decision-making. By automating sensory analysis, the system allows designers to focus on creativity while ensuring the space is functional and accessible for everyone from day one, significantly reducing the need for costly future adjustments.
 
+To visualize the data hierarchy and the logic of our AI processing, here is the official Class Diagram for SanaaSpace:
+![SanaeSpace Architecture Diagram](docs/class-diag.png)
+Architect's Note: This diagram defines the modular relationship between User Roles, the SanaeAI Engine, and the resulting Sensory Reports. By utilizing inheritance and specialized data dictionaries, we ensure that every blueprint is analyzed with neuro-inclusive precision.
+
 ---
 
 ## 💻 Technical Ecosystem
