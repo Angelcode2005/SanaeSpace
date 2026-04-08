@@ -5,7 +5,7 @@
 ---
 
 ## 🌟 The Vision: Accessibility as DNA
-Beyond traditional building codes, **SanaaSpace** pioneers **Sensory Engineering**. We move beyond ramps and elevators to address the "invisible" barriers—the neuro-sensory environment—making inclusivity the very DNA of the building.
+Beyond traditional building codes, **SanaeSpace** pioneers **Sensory Engineering**. We move beyond ramps and elevators to address the "invisible" barriers—the neuro-sensory environment—making inclusivity the very DNA of the building.
 
 ## 🛠️ Core Pillars
 ### 1. Strategic Infrastructure (Digital Twin)
