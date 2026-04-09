@@ -89,9 +89,9 @@ To experience the full logic and user flow of the **SanaeSpace Dashboard**, you 
 
 <img src= "data/blueprints/sample-hospital2.png" width ="800" >
 
-**The AI Decision Engine [thresholds.json](thresholds.json):** This file represents the "brain" of our system. It defines the scientific boundaries for sensory safety—classifying environmental factors (e.g., Noise levels > 82dB, Light intensity > 850 Lux) as critical risks based on neurodivergence research and architectural standards.
+**The AI Decision Engine [thresholds.json](data/thresholds.json) :** This file represents the "brain" of our system. It defines the scientific boundaries for sensory safety—classifying environmental factors (e.g., Noise levels > 82dB, Light intensity > 850 Lux) as critical risks based on neurodivergence research and architectural standards.
 
-**Sensory Simulation Logs [sensory_logs.csv](sensory-logs.csv):** To validate our prototypes, we generated structured datasets that mimic real-time sensor feedback. This ensures that every alert and "Red Zone" shown in the dashboard is rooted in consistent, verifiable environmental data.
+**Sensory Simulation Logs [sensory_logs.csv](data/sensory-logs.csv) :** To validate our prototypes, we generated structured datasets that mimic real-time sensor feedback. This ensures that every alert and "Red Zone" shown in the dashboard is rooted in consistent, verifiable environmental data.
 
 
 <img src= "data/sensory-logs.png" width="700">
