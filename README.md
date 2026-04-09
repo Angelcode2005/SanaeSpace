@@ -56,10 +56,9 @@ This showcase demonstrates a comprehensive Sensory Audit performed on a large-sc
 
 <p align="center">
   <img src="assets/hospital-dashbord-main.jpeg" width="900" alt="Spatial Analysis">
+  <img src="assets/hospital-floorplan-analysis.jpeg" width="600">
 </p>
-<p>
-<img src="assets/hospital-floorplan-analysis.jpeg" width="600">
-  </p>
+
 <p align="center">
   <img src="assets/sensory-analytics-metrics.jpeg" width="300" height="400" />
   <img src="assets/sensory-analytics-metrics2.jpeg" width="300"  height="400"/>
