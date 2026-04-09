@@ -42,22 +42,21 @@ This repository is organized to demonstrate the interdisciplinary engineering be
 **Architect's Note:** The sequence emphasizes data integrity and processing depth. Once a blueprint is securely stored in the Database, the SanaeAI Engine performs a series of self-reflexive sensory calculations. This ensures that the final report provided to the architect is not just data, but a validated neuro-inclusive design guide.
 
 ## 🚀 Product Showcase: Metro General Hospital Case Study
-**SanaeSpace isn't just for homes; it's built for complex public infrastructures.*
-**From Logic to Layout:** While the backend handles the complex sensory calculations, the SanaeSpace Dashboard translates that data into an intuitive architectural experience. This showcase demonstrates how the platform performs a comprehensive Sensory Audit on a large-scale public facility, proving that inclusive design can be both data-driven and visually accessible.
+*SanaeSpace isn't just for residential use; it is engineered for complex public infrastructures.* 
+From Logic to Layout, while the backend handles the heavy sensory calculations, the dashboard translates that raw data into an intuitive architectural experience.
 
-**Spatial Sensory Intelligence:**
-Here, the platform performs a real-time audit of a hospital floor plan. The AI identifies 'Critical Risk' zones (red) and 'Moderate Risk' zones (amber) based on acoustic resonance and light intensity, providing a visual guide for architects to prioritize interventions.
+This showcase demonstrates a comprehensive Sensory Audit performed on a large-scale hospital facility. The process begins with **Spatial Sensory Intelligence**, where our AI scans the floor plan to identify 'Critical Risk' zones (red) and 'Moderate Risk' zones (amber) based on acoustic resonance and light intensity. This provides a visual roadmap for architects to prioritize immediate interventions.
 
  ![hospital](assets/hospital-dashboard-main.jpeg) 
  ![hospital](assets/hospital-floorplan-analysis.jpeg) 
  
-**Real-time Environmental Monitoring:**
-This section quantifies environmental factors into measurable metrics. By tracking decibel peaks, light lux levels, and foot traffic patterns, the system calculates a 'Compliance Score' to ensure the space remains within neuro-inclusive comfort thresholds.
-
- ![sensory1](assets/sensory-analytics-metrics.jpeg)                ![sensory1](assets/sensory-analytics-metrics2.jpeg)   
+To support these visuals, the system maintains **Real-time Environmental Monitoring**. This section quantifies environmental factors into measurable metrics—tracking decibel peaks, lux levels, and foot traffic—to calculate a 'Compliance Score' that ensures the space remains within neuro-inclusive comfort thresholds.
+<p align="center">
+  <img src="assets/sensory-analytics-metrics.jpeg" width="45%" />
+  <img src="assets/sensory-analytics-metrics2.jpeg" width="45%" />
+</p>
  
-**Actionable Architectural Insights:**
-Beyond detection, SanaeSpace acts as a consultant. The AI-driven engine generates specific recommendations—such as acoustic buffering or lighting dimmability—to mitigate identified sensory triggers and improve overall accessibility.
+Finally, moving beyond detection, SanaeSpace acts as an automated consultant by providing **Actionable Architectural Insights**. Instead of just flagging problems, the AI-driven engine generates specific recommendations—such as acoustic buffering or lighting dimmability—to effectively mitigate sensory triggers and guarantee a truly accessible environment for all.
   ![Recommendations](assets/ai-recommendations-panel.jpeg) 
 
 
