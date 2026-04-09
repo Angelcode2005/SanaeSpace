@@ -66,20 +66,20 @@ This showcase demonstrates a comprehensive Sensory Audit performed on a large-sc
 </p>
 
 
-### Key Insights Generated:
-* **Acoustic Treatment:** Identified 82dB peaks in Emergency areas.
-* **Lighting Adjustment:** Detected harsh 850 Lux zones.
-* **Tactile Safety:** Verified 92% flooring compliance for accessibility.
-
-
-
 ---
 ### 🔗 Interactive Prototype
 To experience the full logic and user flow of the **SanaeSpace Dashboard**, you can explore the interactive prototype on Figma:
 
 [👉 View Interactive Figma Prototype](https://www.figma.com/make/ooaUev31uB47lv0slqsDJf/Dashboard-UI-Kit?t=QyCqsAhmMui7KIne-20&fullscreen=1)
-
 *Note: The prototype includes the full navigation flow from the initial sensory scan to the final AI recommendation report.*
+
+---
+
+### Key Insights Generated:
+* **Acoustic Treatment:** Identified 82dB peaks in Emergency areas.
+* **Lighting Adjustment:** Detected harsh 850 Lux zones.
+* **Tactile Safety:** Verified 92% flooring compliance for accessibility.
+
 ---
 
 ## 💻 Technical Ecosystem
