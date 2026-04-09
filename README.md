@@ -43,11 +43,12 @@ This repository is organized to demonstrate the interdisciplinary engineering be
 
 ## 🚀 Product Showcase: Metro General Hospital Case Study
 *SanaeSpace isn't just for residential use; it is engineered for complex public infrastructures.* 
+
 From Logic to Layout, while the backend handles the heavy sensory calculations, the dashboard translates that raw data into an intuitive architectural experience.
 
 This showcase demonstrates a comprehensive Sensory Audit performed on a large-scale hospital facility. The process begins with **Spatial Sensory Intelligence**, where our AI scans the floor plan to identify 'Critical Risk' zones (red) and 'Moderate Risk' zones (amber) based on acoustic resonance and light intensity. This provides a visual roadmap for architects to prioritize immediate interventions.
 
- <img src="assets/hospital-dashboard-main.jpeg" width="600" >
+ <img src="assets/hospital-dashbord-main.jpeg" width="600" >
  <img src="assets/hospital-floorplan-analysis.jpeg" width="900" alt="Dashboard Preview">
  
 To support these visuals, the system maintains **Real-time Environmental Monitoring**. This section quantifies environmental factors into measurable metrics—tracking decibel peaks, lux levels, and foot traffic—to calculate a 'Compliance Score' that ensures the space remains within neuro-inclusive comfort thresholds.
