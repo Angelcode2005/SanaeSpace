@@ -41,6 +41,19 @@ This repository is organized to demonstrate the interdisciplinary engineering be
 
 **Architect's Note:** The sequence emphasizes data integrity and processing depth. Once a blueprint is securely stored in the Database, the SanaeAI Engine performs a series of self-reflexive sensory calculations. This ensures that the final report provided to the architect is not just data, but a validated neuro-inclusive design guide.
 
+## 🚀 Product Showcase: Metro General Hospital Case Study
+SanaeSpace isn't just for homes; it's built for complex public infrastructures. Below is an AI sensory audit of a hospital floor plan.
+
+| Sensory Heatmap & Risk Analysis | AI-Driven Recommendations |
+|---|---|
+| ![Heatmap](assets/hospital-dashboard-main.jpeg) | ![Recommendations](assets/ai-recommendations-panel.jpeg) | ![sensory1](assets/sensory-analytics-metrics.jpeg)
+| ![Heatmap](assets/hospital-floorplan-analysis.jpeg) 
+
+### Key Insights Generated:
+* **Acoustic Treatment:** Identified 82dB peaks in Emergency areas.
+* **Lighting Adjustment:** Detected harsh 850 Lux zones.
+* **Tactile Safety:** Verified 92% flooring compliance for accessibility.
+
 ---
 
 ## 💻 Technical Ecosystem
