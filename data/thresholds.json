@@ -1,0 +1,15 @@
+{
+  "acoustic_thresholds": {
+    "comfort_zone": "below 60dB",
+    "moderate_risk": "60dB - 80dB",
+    "critical_risk": "above 82dB"
+  },
+  "lighting_thresholds": {
+    "soft_ambient": "300 - 500 Lux",
+    "intense_glare": "above 850 Lux"
+  },
+  "foot_traffic_density": {
+    "low": "below 100 ppl/hr",
+    "high": "above 250 ppl/hr"
+  }
+}
