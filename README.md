@@ -28,16 +28,16 @@ This repository is organized to demonstrate the interdisciplinary engineering be
 
 ## 📐 System Architecture Overview
 *To visualize the synergy between the AI engine and our stakeholders, here is the official **Use Case Diagram** for SanaaSpace:
-![SanaeSpace Architecture Diagram](docs/use-case.png)
+<img src="docs/use-case.png" width="900" alt="Spatial Analysis">
 **Architect's Note:** This architecture is designed to simplify complex decision-making. By automating sensory analysis, the system allows designers to focus on creativity while ensuring the space is functional and accessible for everyone from day one, significantly reducing the need for costly future adjustments.
 
 *To visualize the data hierarchy and the logic of our AI processing, here is the official Class Diagram for SanaaSpace:
-![SanaeSpace Architecture Diagram](docs/class-diag.png)
+<img src= "docs/class-diag.png" width="900" >
 **Architect's Note:** This diagram defines the modular relationship between User Roles, the SanaeAI Engine, and the resulting Sensory Reports. By utilizing inheritance and specialized data dictionaries, we ensure that every blueprint is analyzed with neuro-inclusive precision.
 
 *The following Sequence Diagram details the lifecycle of a blueprint analysis within the SanaaSpace ecosystem, showcasing the interaction between the architect and the backend components:
 
-![SanaeSpace Architecture Diagram](docs/sequence_diag.png)
+<img src="docs/sequence_diag.png" width="900" >
 
 **Architect's Note:** The sequence emphasizes data integrity and processing depth. Once a blueprint is securely stored in the Database, the SanaeAI Engine performs a series of self-reflexive sensory calculations. This ensures that the final report provided to the architect is not just data, but a validated neuro-inclusive design guide.
 
@@ -55,16 +55,16 @@ This showcase demonstrates a comprehensive Sensory Audit performed on a large-sc
 ### 🖼️ Visual Breakdown
 
 <p align="center">
-  <img src="assets/hospital-floorplan-analysis.jpeg" width="900" alt="Spatial Analysis">
+  <img src="assets/hospital-dashbord-main.jpeg" width="900" alt="Spatial Analysis">
+  <img src="assets/hospital-floorplan-analysis.jpeg" width="900"
 </p>
 
 <p align="center">
   <img src="assets/sensory-analytics-metrics.jpeg" width="45%" />
-  <img src="assets/ai-recommendations-panel.jpeg" width="45%" />
+  <img src="assets/sensory-analytics-metrics2.jpeg" width="45%" />
 </p>
 
- <img src="assets/hospital-dashbord-main.jpeg" width="900" >
- <img src="assets/hospital-floorplan-analysis.jpeg" width="600" alt="Dashboard Preview">
+ <img src="assets/ai-recommendations-panel.jpeg" width="900" alt="Dashboard Preview">
  
 
 
