@@ -47,17 +47,17 @@ From Logic to Layout, while the backend handles the heavy sensory calculations, 
 
 This showcase demonstrates a comprehensive Sensory Audit performed on a large-scale hospital facility. The process begins with **Spatial Sensory Intelligence**, where our AI scans the floor plan to identify 'Critical Risk' zones (red) and 'Moderate Risk' zones (amber) based on acoustic resonance and light intensity. This provides a visual roadmap for architects to prioritize immediate interventions.
 
- ![hospital](assets/hospital-dashboard-main.jpeg) 
- ![hospital](assets/hospital-floorplan-analysis.jpeg) 
+ <img src="assets/hospital-dashboard-main.jpeg" width="600" alt="Dashboard Preview">
+ <img src="assets/hospital-floorplan-analysis.jpeg" width="600" alt="Dashboard Preview">
  
 To support these visuals, the system maintains **Real-time Environmental Monitoring**. This section quantifies environmental factors into measurable metrics—tracking decibel peaks, lux levels, and foot traffic—to calculate a 'Compliance Score' that ensures the space remains within neuro-inclusive comfort thresholds.
 <p align="center">
   <img src="assets/sensory-analytics-metrics.jpeg" width="45%" />
-  <img src="assets/sensory-analytics-metrics2.jpeg" width="45%" />
+  <img src="assets/sensory-analytics-metrics2.jpeg" width="30" />
 </p>
  
 Finally, moving beyond detection, SanaeSpace acts as an automated consultant by providing **Actionable Architectural Insights**. Instead of just flagging problems, the AI-driven engine generates specific recommendations—such as acoustic buffering or lighting dimmability—to effectively mitigate sensory triggers and guarantee a truly accessible environment for all.
-  ![Recommendations](assets/ai-recommendations-panel.jpeg) 
+ <img src="assets/ai-recommendations-panel.jpeg" width="400" alt="Dashboard Preview">
 
 
 ### Key Insights Generated:
