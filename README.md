@@ -71,7 +71,8 @@ This showcase demonstrates a comprehensive Sensory Audit performed on a large-sc
 To experience the full logic and user flow of the **SanaeSpace Dashboard**, you can explore the interactive prototype on Figma:
 
 [👉 View Interactive Figma Prototype](https://www.figma.com/make/ooaUev31uB47lv0slqsDJf/Dashboard-UI-Kit?t=QyCqsAhmMui7KIne-20&fullscreen=1)
-*Note: The prototype includes the full navigation flow from the initial sensory scan to the final AI recommendation report.*
+
+*Note: This is a Functional Walkthrough focusing on the "Happy Path" of a sensory audit. While the UI represents the full architectural vision, interactivity is currently limited to the Hospital Case Study flow (from blueprint upload to AI recommendation report) to demonstrate the core logic integration.*
 
 ---
 
