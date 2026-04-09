@@ -44,13 +44,17 @@ This repository is organized to demonstrate the interdisciplinary engineering be
 ## 🚀 Product Showcase: Metro General Hospital Case Study
 SanaeSpace isn't just for homes; it's built for complex public infrastructures. Below is an AI sensory audit of a hospital floor plan.
 
-Sensory Heatmap & Risk Analysis 
+ Sensory Heatmap & Risk Analysis 
+ 
  ![Heatmap](assets/hospital-dashboard-main.jpeg) 
+ 
  ![sensory1](assets/sensory-analytics-metrics.jpeg)
+ 
  ![Heatmap](assets/hospital-floorplan-analysis.jpeg) 
  
   AI-Driven Recommendations
-![Recommendations](assets/ai-recommendations-panel.jpeg) 
+  
+  ![Recommendations](assets/ai-recommendations-panel.jpeg) 
 
 
 ### Key Insights Generated:
