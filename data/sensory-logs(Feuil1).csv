@@ -1,0 +1,6 @@
+Sensory_Status;Occupancy_Count;Light_Intensity_Lux;Ambient_Noise_dB;Location_ID;Timestamp;Timestamp
+Normal;12;450;65;Lobby_Entrance;09/04/2026;08:30
+CRITICAL;45;920;84;Emergency_Room;09/04/2026;09:15
+Comfortable;5;300;45;Patient_Ward_A;09/04/2026;10:00
+Moderate;88;600;72;Cafeteria;09/04/2026;11:30
+CRITICAL_NOISE;15;550;81;Radiology_Hall;09/04/2026;13:00
