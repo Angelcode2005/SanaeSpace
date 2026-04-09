@@ -44,15 +44,17 @@ This repository is organized to demonstrate the interdisciplinary engineering be
 ## 🚀 Product Showcase: Metro General Hospital Case Study
 SanaeSpace isn't just for homes; it's built for complex public infrastructures. Below is an AI sensory audit of a hospital floor plan.
 
- Sensory Heatmap & Risk Analysis 
+**Spatial Sensory Intelligence:**
+Here, the platform performs a real-time audit of a hospital floor plan. The AI identifies 'Critical Risk' zones (red) and 'Moderate Risk' zones (amber) based on acoustic resonance and light intensity, providing a visual guide for architects to prioritize interventions.
+ ![hospital](assets/hospital-dashboard-main.jpeg) 
+ ![hospital](assets/hospital-floorplan-analysis.jpeg) 
  
- ![Heatmap](assets/hospital-dashboard-main.jpeg) 
- 
+**Real-time Environmental Monitoring:**
+This section quantifies environmental factors into measurable metrics. By tracking decibel peaks, light lux levels, and foot traffic patterns, the system calculates a 'Compliance Score' to ensure the space remains within neuro-inclusive comfort thresholds.
  ![sensory1](assets/sensory-analytics-metrics.jpeg)
  
- ![Heatmap](assets/hospital-floorplan-analysis.jpeg) 
- 
-  AI-Driven Recommendations
+**Actionable Architectural Insights:**
+Beyond detection, SanaeSpace acts as a consultant. The AI-driven engine generates specific recommendations—such as acoustic buffering or lighting dimmability—to mitigate identified sensory triggers and improve overall accessibility.
   
   ![Recommendations](assets/ai-recommendations-panel.jpeg) 
 
