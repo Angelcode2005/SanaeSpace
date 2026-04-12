@@ -16,7 +16,18 @@ Calculating how light lux levels, acoustics, and spatial density affect the huma
 Gamified workshops for youth to design "Inclusive Neighborhoods" using AI.
 
 ---
+## ✨ The Vision: Where it all started
+*SanaeSpace isn't just a technical tool; it's a mission to redefine how we perceive architectural inclusivity.*
 
+> *"Accessibility is not a feature; it is the DNA of the building."*
+
+**[👉 View Interactive Figma Prototype the Full Concept Presentation](./SanaeSpace_Vision.pdf)**
+
+This presentation outlines the core philosophy of SanaeSpace, tracing its journey from a visionary concept to a data-driven platform, and now, the foundation of **Sanae Academy**.
+
+
+
+---
 ## 📂 Project Structure (Technical Documentation)
 This repository is organized to demonstrate the interdisciplinary engineering behind the platform:
 
