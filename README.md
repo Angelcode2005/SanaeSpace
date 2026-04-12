@@ -21,7 +21,7 @@ Gamified workshops for youth to design "Inclusive Neighborhoods" using AI.
 
  *"Accessibility is not a feature; it is the DNA of the building."*
  <p align="center">
-  <img src="vision-preview.png" width="800" alt="SanaeSpace Vision Preview">
+  <img src="Vision-preview.png" width="800" alt="SanaeSpace Vision Preview">
 </p>
 
 **[👉 View Interactive the Full Concept Presentation](./SanaeSpace_Vision.pdf)**
