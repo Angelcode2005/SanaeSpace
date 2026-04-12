@@ -19,7 +19,7 @@ Gamified workshops for youth to design "Inclusive Neighborhoods" using AI.
 ## ✨ The Vision: Where it all started
 *SanaeSpace isn't just a technical tool; it's a mission to redefine how we perceive architectural inclusivity.*
 
- *"Accessibility is not a feature; it is the DNA of the building."*
+ >*"Accessibility is not a feature; it is the DNA of the building."*
  <p align="center">
   <img src="Vision-preview.png" width="800" alt="SanaeSpace Vision Preview">
 </p>
@@ -120,7 +120,7 @@ Sanae Academy is the educational extension of this project, designed to empower 
 * **[Workshop Curriculum](./academy/curriculum.md)**: A 3-module guide covering Empathy in Design, AI integration, and Social Responsibility.
 * **[Interactive Sensory Quiz](./academy/quiz.md)**: A gamified assessment to test knowledge on sensory thresholds and inclusive philosophy.
 
-> *"We are not just building tools; we are nurturing the next generation of empathetic designers."*
+> *"We are not just building tools; we are nurturing the next generation of human-centric innovators designers."*
 
 
 
