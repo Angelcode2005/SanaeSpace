@@ -8,7 +8,7 @@ This curriculum is designed to bridge the gap between AI technology and inclusiv
 
 ## Module 2: AI as a Tool for Inclusion
 * **Goal:** How to use the SanaeSpace engine to scan 2D blueprints.
-* **Activity:** Using our `thresholds.json` to identify "Red Zones" in a layout.
+* **Activity:** Using our [thresholds.json](thresholds.json) to identify "Red Zones" in a layout.
 
 ## Module 3: Gamified Social Responsibility
 * **Goal:** Designing inclusive neighborhoods using gamified AI simulations.
