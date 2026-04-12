@@ -19,7 +19,10 @@ Gamified workshops for youth to design "Inclusive Neighborhoods" using AI.
 ## ✨ The Vision: Where it all started
 *SanaeSpace isn't just a technical tool; it's a mission to redefine how we perceive architectural inclusivity.*
 
-> *"Accessibility is not a feature; it is the DNA of the building."*
+ *"Accessibility is not a feature; it is the DNA of the building."*
+ <p align="center">
+  <img src="vision-preview.png" width="800" alt="SanaeSpace Vision Preview">
+</p>
 
 **[👉 View Interactive the Full Concept Presentation](./SanaeSpace_Vision.pdf)**
 
