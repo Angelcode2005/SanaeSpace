@@ -21,7 +21,7 @@ Gamified workshops for youth to design "Inclusive Neighborhoods" using AI.
 
 > *"Accessibility is not a feature; it is the DNA of the building."*
 
-**[👉 View Interactive Figma Prototype the Full Concept Presentation](./SanaeSpace_Vision.pdf)**
+**[👉 View Interactive the Full Concept Presentation](./SanaeSpace_Vision.pdf)**
 
 This presentation outlines the core philosophy of SanaeSpace, tracing its journey from a visionary concept to a data-driven platform, and now, the foundation of **Sanae Academy**.
 
