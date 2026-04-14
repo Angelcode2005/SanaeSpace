@@ -1,11 +1,11 @@
 # SanaeSpace: Predictive AI for Neuro-Inclusive Architecture 🏗️🧠
 
-**SanaeSpace** is a predictive AI platform designed to bridge the gap between static blueprints and the lived human experience. Our mission is to ensure that no building is constructed without first understanding its neurological and sensory impact on every citizen.
+**SanaeSpace** is a predictive AI platform designed to bridge the gap between static blueprints and the lived human experience. my mission is to ensure that no building is constructed without first understanding its neurological and sensory impact on every citizen.
 
 ---
 
 ## 🌟 The Vision: Accessibility as DNA
-Beyond traditional building codes, **SanaeSpace** pioneers **Sensory Engineering**. We move beyond ramps and elevators to address the "invisible" barriers—the neuro-sensory environment—making inclusivity the very DNA of the building.
+Beyond traditional building codes, **SanaeSpace** pioneers **Sensory Engineering**. I move beyond ramps and elevators to address the "invisible" barriers—the neuro-sensory environment—making inclusivity the very DNA of the building.
 
 ## 🛠️ Core Pillars
 ### 1. Strategic Infrastructure (Digital Twin)
@@ -41,13 +41,13 @@ This repository is organized to demonstrate the interdisciplinary engineering be
 * **`academy/`**: Educational materials and workshop modules for Sanae Academy.
 
 ## 📐 System Architecture Overview
-*To visualize the synergy between the AI engine and our stakeholders, here is the official **Use Case Diagram** for SanaaSpace:
+*To visualize the synergy between the AI engine and my stakeholders, here is the official **Use Case Diagram** for SanaaSpace:
 <img src="docs/use-case.png" width="900" alt="Spatial Analysis">
 **Architect's Note:** This architecture is designed to simplify complex decision-making. By automating sensory analysis, the system allows designers to focus on creativity while ensuring the space is functional and accessible for everyone from day one, significantly reducing the need for costly future adjustments.
 
-*To visualize the data hierarchy and the logic of our AI processing, here is the official Class Diagram for SanaaSpace:
+*To visualize the data hierarchy and the logic of my AI processing, here is the official Class Diagram for SanaaSpace:
 <img src= "docs/class-diag.png" width="900" >
-**Architect's Note:** This diagram defines the modular relationship between User Roles, the SanaeAI Engine, and the resulting Sensory Reports. By utilizing inheritance and specialized data dictionaries, we ensure that every blueprint is analyzed with neuro-inclusive precision.
+**Architect's Note:** This diagram defines the modular relationship between User Roles, the SanaeAI Engine, and the resulting Sensory Reports. By utilizing inheritance and specialized data dictionaries, I ensure that every blueprint is analyzed with neuro-inclusive precision.
 
 *The following Sequence Diagram details the lifecycle of a blueprint analysis within the SanaaSpace ecosystem, showcasing the interaction between the architect and the backend components:
 
@@ -60,7 +60,7 @@ This repository is organized to demonstrate the interdisciplinary engineering be
 
 This showcase demonstrates a comprehensive Sensory Audit performed on a large-scale hospital facility. The process is broken down into three core phases:
 
-* **Spatial Sensory Intelligence:** Our AI scans the architectural floor plan to identify 'Critical Risk' zones (red) and 'Moderate Risk' zones (amber) based on simulated acoustic resonance and light intensity.
+* **Spatial Sensory Intelligence:** My AI scans the architectural floor plan to identify 'Critical Risk' zones (red) and 'Moderate Risk' zones (amber) based on simulated acoustic resonance and light intensity.
 * **Real-time Environmental Monitoring:** This section quantifies environmental factors—tracking decibel peaks, lux levels, and foot traffic—to calculate a 'Compliance Score' that ensures the space remains within neuro-inclusive comfort thresholds.
 * **Actionable Architectural Insights:** Instead of just flagging problems, the AI-driven engine generates specific recommendations—such as acoustic buffering or lighting dimmability—to effectively mitigate sensory triggers.
 
@@ -99,13 +99,13 @@ To experience the full logic and user flow of the **SanaeSpace Dashboard**, you 
 ## 📊 Data & Methodology: The Technical Backbone
 *SanaeSpace transforms raw architectural data into actionable sensory intelligence through three integrated layers:*
 
-**Spatial Raw Data :** We utilize standardized 2D architectural layouts [located here](data/blueprints) as the primary input for our analysis. By processing real-world environments like hospitals and schools, the system identifies how physical structures influence sensory flow.
+**Spatial Raw Data :** I utilize standardized 2D architectural layouts [located here](data/blueprints) as the primary input for my analysis. By processing real-world environments like hospitals and schools, the system identifies how physical structures influence sensory flow.
 
 <img src= "data/blueprints/sample-hospital2.png" width ="800" >
 
 **The AI Decision Engine [thresholds.json](data/thresholds.json) :** This file represents the "brain" of our system. It defines the scientific boundaries for sensory safety—classifying environmental factors (e.g., Noise levels > 82dB, Light intensity > 850 Lux) as critical risks based on neurodivergence research and architectural standards.
 
-**Sensory Simulation Logs [sensory_logs.png](data/sensory-logs.png) :** To validate our prototypes, we generated structured datasets that mimic real-time sensor feedback. This ensures that every alert and "Red Zone" shown in the dashboard is rooted in consistent, verifiable environmental data.
+**Sensory Simulation Logs [sensory_logs.png](data/sensory-logs.png) :** To validate my prototypes, we generated structured datasets that mimic real-time sensor feedback. This ensures that every alert and "Red Zone" shown in the dashboard is rooted in consistent, verifiable environmental data.
 
 
 <img src= "data/sensory-logs.png" width="700">
