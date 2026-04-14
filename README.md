@@ -43,6 +43,7 @@ This repository is organized to demonstrate the interdisciplinary engineering be
 ## 📐 System Architecture Overview
 *To visualize the synergy between the AI engine and my stakeholders, here is the official **Use Case Diagram** for SanaaSpace:
 <img src="docs/use-case.png" width="900" alt="Spatial Analysis">
+
 **Architect's Note:** This architecture is designed to simplify complex decision-making. By automating sensory analysis, the system allows designers to focus on creativity while ensuring the space is functional and accessible for everyone from day one, significantly reducing the need for costly future adjustments.
 
 *To visualize the data hierarchy and the logic of my AI processing, here is the official Class Diagram for SanaaSpace:
