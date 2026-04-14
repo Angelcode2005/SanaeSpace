@@ -48,6 +48,7 @@ This repository is organized to demonstrate the interdisciplinary engineering be
 
 *To visualize the data hierarchy and the logic of my AI processing, here is the official Class Diagram for SanaaSpace:
 <img src= "docs/class-diag.png" width="900" >
+
 **Architect's Note:** This diagram defines the modular relationship between User Roles, the SanaeAI Engine, and the resulting Sensory Reports. By utilizing inheritance and specialized data dictionaries, I ensure that every blueprint is analyzed with neuro-inclusive precision.
 
 *The following Sequence Diagram details the lifecycle of a blueprint analysis within the SanaaSpace ecosystem, showcasing the interaction between the architect and the backend components:
