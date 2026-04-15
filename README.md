@@ -119,7 +119,7 @@ To experience the full logic and user flow of the **SanaeSpace Dashboard**, you 
 Sanae Academy is the educational extension of this project, designed to empower youth and future architects with sensory-inclusive design principles.
 
 ### 📚 Explore the Academy Materials:
-* **[Workshop Curriculum](./academy/curriculum.md)**: A 3-module guide covering Empathy in Design, AI integration, and Social Responsibility.
+* **[Workshop Curriculum](./academy/curriculum.md)**: A 3-module guide covering Neuro-Inclusive Architecture, AI Integration, and Social Responsibility."
 * **[Interactive Sensory Quiz](./academy/quiz.md)**: A gamified assessment to test knowledge on sensory thresholds and inclusive philosophy.
 
 > *"We are not just building tools; we are nurturing the next generation of human-centric innovators designers."*
